@@ -1,5 +1,4 @@
 package com.app.api;
-
 import io.swagger.annotations.*;
 
 import org.springframework.http.MediaType;
